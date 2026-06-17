@@ -159,7 +159,7 @@ Node.js • RabbitMQ • MongoDB
 
 # 📫 Connect With Me
 
-📧 Email: YOUR_EMAIL
+📧 Email: paragk3946@gmail.com
 
 💼 LinkedIn: (https://www.linkedin.com/in/parag-k-900561203/)
 
